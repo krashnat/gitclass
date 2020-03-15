@@ -1,3 +1,4 @@
 this is the first class.changed some information.
-some changes added
+some changes added.
+modifieded locally
 
