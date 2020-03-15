@@ -1,2 +1,3 @@
-this is the first class.changed some information
+this is the first class.changed some information.
+some changes added
 
